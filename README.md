@@ -25,15 +25,16 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgresql,mysql,python,java" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,spring,mongodb,mysql,postgresql,python" />
 </p>
 
-- **Node.js & Express** - API RESTful, Middlewares, JWT Authentication
+- **Java** - ORM, JakartaEE
+- **Node.js & Express** - API RESTful, Middlewares
 - **Spring & Spring Boot** - Framework Java con inyección de dependencias
 - **MongoDB** - Base de datos NoSQL y modelado de datos en JSON
-- **MySQL & PostgreSQL** - Bases de datos relacionales y consultas complejas
+- **MySQL & PostgreSQL** - Bases de datos relacionales, consultas y analisis
 - **Python** - Flask, Automatización, Game Development
-- **Java** - Servlets, Tomcat, JakartaEE
+
   
 ### Herramientas & Otros
 <p>
@@ -42,7 +43,7 @@
 
 - **Git & GitHub** - Control de versiones
 - **Docker** - Containerización y despliegue de aplicaciones
-- 
+
 
 ### Cloud & Deployment
 <p>
