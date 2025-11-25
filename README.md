@@ -102,7 +102,7 @@
           <img src="https://img.shields.io/badge/CÓDIGO-ffa500?style=for-the-badge&logo=github&logoColor=black">
         </a>
       </p>
-      <p><strong>Python + PostgreSQL/MySQL</strong> - Juego multijugador en red con GUI y gestión de puntuaciones globales en base de datos.</p>
+      <p><strong>Python + PostgreSQL</strong> - Juego multijugador en red con GUI y gestión de puntuaciones globales en base de datos.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=flask&logoColor=white"/>
