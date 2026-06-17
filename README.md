@@ -96,17 +96,17 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎮 BuckshotRoulettePy</h3>
+      <h3 align="center">🎮 Rock Paper Scissors (mediaPipe Hands) </h3>
       <p align="center">
-        <a href="https://github.com/KaiAnGi/BuckshotRoulettePy" target="_blank">
+        <a href="https://github.com/KaiAnGi/ProyectoTFG" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-ffa500?style=for-the-badge&logo=github&logoColor=black">
         </a>
       </p>
-      <p><strong>Python + PostgreSQL</strong> - Juego multijugador en red con GUI y gestión de puntuaciones globales en base de datos.</p>
+      <p><strong>Angular + MongoAtlas</strong> - Juego multijugador desplegado con detección de gestos integrado.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyGame-2B5B84?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
       </p>
     </td>
   </tr>
