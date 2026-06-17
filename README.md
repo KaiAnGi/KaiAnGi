@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 ¡Hola! Soy Kai</h1>
 
-<h3 align="center">Estudiante de Desarrollo web</h3>
+<h3 align="center">Web developer tech</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kai-angulo-gil-39ab022bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
