@@ -81,32 +81,51 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🛍️ TiendaHSN</h3>
+    <td width="33%">
+      <h3 align="center">🎮 RPS — Rock Paper Scissors</h3>
       <p align="center">
-        <a href="https://github.com/KaiAnGi/tiendaHSN" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+        <a href="https://github.com/KaiAnGi/rock-paper-scissors" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-DD0031?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="https://cliente-2a5q.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/JUGAR-46E3B7?style=for-the-badge&logo=render&logoColor=black">
         </a>
       </p>
-      <p><strong>React + Node.js + MongoDB</strong> - Aplicación e-commerce full-stack con autenticación JWT, gestión de productos y carrito de compras.</p>
+      <p><strong>Angular + Node + Socket.IO</strong> - Juego 1vs1 en tiempo real con detección de gestos por MediaPipe, videollamada WebRTC, apuestas con moneda virtual y pagos con PayPal. Proyecto de fin de grado.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.IO-black?style=flat&logo=socket.io"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🎮 Rock Paper Scissors (mediaPipe Hands) </h3>
+    <td width="33%">
+      <h3 align="center">📖 narrative-memory</h3>
       <p align="center">
-        <a href="https://github.com/KaiAnGi/ProyectoTFG" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-ffa500?style=for-the-badge&logo=github&logoColor=black">
+        <a href="https://github.com/KaiAnGi/narrative-memory" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-2F81F7?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
-      <p><strong>Angular + MongoAtlas</strong> - Juego multijugador desplegado con detección de gestos integrado.</p>
+      <p><strong>Python + Qdrant + Ollama</strong> - Sistema local de IA que indexa novelas con embeddings y responde preguntas recuperando evidencia de cualquier capítulo, citando fuentes. 100% local, sin frameworks de IA.</p>
       <p>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ollama-black?style=flat"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🤖 J.A.R.V.I.S.</h3>
+      <p align="center">
+        <a href="https://github.com/KaiAnGi/JARVIS" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-3776AB?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p><strong>Python + PyQt6</strong> - Asistente de voz de escritorio 100% offline con arquitectura de plugins: control del sistema, Git, VS Code, Spotify, Gmail, calendario y más, activado por voz.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vosk-orange?style=flat"/>
       </p>
     </td>
   </tr>
