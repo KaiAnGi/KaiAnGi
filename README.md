@@ -85,7 +85,7 @@
       <h3 align="center">🎮 RPS — Rock Paper Scissors</h3>
       <p align="center">
         <a href="https://github.com/KaiAnGi/rock-paper-scissors" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-DD0031?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/CÓDIGO-DD0031?style=for-the-badge&logo=github&logoColor=black">
         </a>
         <a href="https://cliente-2a5q.onrender.com/" target="_blank">
           <img src="https://img.shields.io/badge/JUGAR-46E3B7?style=for-the-badge&logo=render&logoColor=black">
